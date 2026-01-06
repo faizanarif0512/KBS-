@@ -26,8 +26,15 @@ Returns the total ETH balance stored in the contract.
 Allows only the owner to withdraw a specified amount of ETH.
 Includes a safety check to prevent withdrawing more than the contract balance.
 
-The code was compiled using REMIX IDE and deployed using REMIX VM.
+## Deployment & Testing
+- The contract was deployed and tested using **Remix IDE**.
+- Environment used: **Remix VM (Prague)**.
+- No real ETH is required for testing.
 
+## Language & Tools
+- **Language:** Solidity
+- **Solidity Version:** ^0.8.20
+- **IDE:** Remix Ethereum IDE
 ## Deplyment Screenshot
 
 ![Deployment ](https://github.com/user-attachments/assets/18cbbc8e-ceb5-4f39-97b3-39c3238ab623)
